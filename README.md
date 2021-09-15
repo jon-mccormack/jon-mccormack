@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Please reach me on jon.mccormack@adlinktech.com or jonmccormack1999@hotmail.co.uk
+Please reach me on jon.mccormack@purple.ai or jonmccormack1999@hotmail.co.uk
 
 <!--
 **jon-mccormack/jon-mccormack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
